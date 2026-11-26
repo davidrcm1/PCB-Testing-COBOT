@@ -29,13 +29,12 @@ Mechanical modifications and supporting automation mechanisms were also designed
   <img width="46%" src="https://github.com/user-attachments/assets/47f00add-5d25-4169-848b-7f75ca7c57d4" />
 </p>
 
-<p align="center">
-  
+<details>
+<summary><strong>▶ Machine 4 Testing Demonstration</strong></summary>
 
-  https://github.com/user-attachments/assets/3c1c896d-48fd-4e1d-85fd-7cec2771bd6b
+https://github.com/user-attachments/assets/3c1c896d-48fd-4e1d-85fd-7cec2771bd6b
 
-
-</p>
+</details>
 ---
 
 ## ✨ Key Features
