@@ -32,12 +32,6 @@ Mechanical modifications and supporting automation mechanisms were also designed
 <p align="center">
   <img width="65%" src="https://github.com/user-attachments/assets/8801377f-8390-4bd5-81b0-054fcda74666" />
 </p>
-
-
-
-https://github.com/user-attachments/assets/8801377f-8390-4bd5-81b0-054fcda74666
-
-
 ---
 
 ## ✨ Key Features
