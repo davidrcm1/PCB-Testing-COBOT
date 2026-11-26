@@ -30,7 +30,11 @@ Mechanical modifications and supporting automation mechanisms were also designed
 </p>
 
 <p align="center">
-  <img width="65%" src="https://github.com/user-attachments/assets/8801377f-8390-4bd5-81b0-054fcda74666" />
+  
+
+  https://github.com/user-attachments/assets/3c1c896d-48fd-4e1d-85fd-7cec2771bd6b
+
+
 </p>
 ---
 
