@@ -339,6 +339,8 @@ Existing testing equipment required mechanical adaptation to enable reliable int
   &nbsp;&nbsp;&nbsp;
   <img width="45%" src="https://github.com/user-attachments/assets/9331d728-75bd-4d1b-97d3-334a988ce33a" />
 </p>
+<img width="576" height="808" alt="ezgif com-cut" src="https://github.com/user-attachments/assets/f23b2757-07dc-4807-bba0-2bd9d71632b7" />
+
 
 ---
 
