@@ -99,7 +99,7 @@ The mechanism was designed around a vertical tray presentation system, enabling 
 <p align="center">
   <img width="45%" src="https://github.com/user-attachments/assets/6f4b7fdc-f010-4261-8297-5cbcc678080b" />
   &nbsp;&nbsp;&nbsp;
-  <img width="45%" src="https://github.com/user-attachments/assets/6e921961-0f1e-43ce-a921-50f5a2c06127" />
+  
 </p>
 
 
@@ -125,10 +125,10 @@ Existing testing equipment required mechanical adaptation to enable reliable int
 <p align="center">
   <img height="220" src="https://github.com/user-attachments/assets/87e8e526-d43f-4f46-8088-7491818d277e" />
   &nbsp;&nbsp;&nbsp;
-  <img height="220" src="https://github.com/user-attachments/assets/9331d728-75bd-4d1b-97d3-334a988ce33a" />
-  &nbsp;&nbsp;&nbsp;
+  <img width="45%" src="https://github.com/user-attachments/assets/6e921961-0f1e-43ce-a921-50f5a2c06127" />
   <img height="220" src="https://github.com/user-attachments/assets/f23b2757-07dc-4807-bba0-2bd9d71632b7" />
 </p>
+
 
 ---
 
