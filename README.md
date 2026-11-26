@@ -79,6 +79,60 @@ This modular approach enables independent monitoring of testing machines while c
 
 ---
 
+## 📦 Electromechanical PCB Tray-Feeding System
+
+A supporting electromechanical tray-feeding mechanism was developed to present PCB trays to the robotic arm and support automated material handling.
+
+The mechanism was designed around a vertical tray presentation system, enabling trays to be positioned at an accessible robotic pickup location and removed following processing.
+
+### Engineering Considerations
+
+- Vertical load handling.
+- Actuator and transmission selection.
+- Lead screw-driven linear motion.
+- Resistance to back-driving.
+- Tray alignment and positioning.
+- Mechanical stability.
+- Manufacturing and assembly constraints.
+- Integration with robotic pickup operations.
+
+<p align="center">
+  <img width="45%" src="https://github.com/user-attachments/assets/6f4b7fdc-f010-4261-8297-5cbcc678080b" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="45%" src="https://github.com/user-attachments/assets/6e921961-0f1e-43ce-a921-50f5a2c06127" />
+</p>
+
+
+---
+
+## ⚙️ Mechanical Design & Equipment Integration
+
+In addition to the controller application, custom mechanical assemblies and machine interface mechanisms were designed to support automated PCB handling.
+
+Existing testing equipment required mechanical adaptation to enable reliable interaction with the collaborative robotic arm.
+
+### Engineering Activities
+
+- Mechanical design using Autodesk Fusion 360.
+- Robotic cell layout development.
+- Custom fixture design.
+- Machine interface redesign.
+- Electromechanical mechanism development.
+- PCB positioning and presentation.
+- Rapid prototyping.
+- Physical integration and functional testing.
+
+
+<p align="center">
+  <img width="45%" src="https://github.com/user-attachments/assets/87e8e526-d43f-4f46-8088-7491818d277e" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="45%" src="https://github.com/user-attachments/assets/9331d728-75bd-4d1b-97d3-334a988ce33a" />
+</p>
+<img width="576" height="808" alt="ezgif com-cut" src="https://github.com/user-attachments/assets/f23b2757-07dc-4807-bba0-2bd9d71632b7" />
+
+
+---
+
 ## 🦾 Robotic System Integration
 
 The robotic cell utilises a Flexiv Rizon 4 collaborative robotic arm for PCB manipulation and interaction with existing testing equipment.
@@ -322,77 +376,7 @@ Application-level monitoring and software stopping functions are not substitutes
 
 ---
 
-## ⚙️ Mechanical Design & Equipment Integration
 
-In addition to the controller application, custom mechanical assemblies and machine interface mechanisms were designed to support automated PCB handling.
-
-Existing testing equipment required mechanical adaptation to enable reliable interaction with the collaborative robotic arm.
-
-### Engineering Activities
-
-- Mechanical design using Autodesk Fusion 360.
-- Robotic cell layout development.
-- Custom fixture design.
-- Machine interface redesign.
-- Electromechanical mechanism development.
-- PCB positioning and presentation.
-- Rapid prototyping.
-- Physical integration and functional testing.
-
-
-<p align="center">
-  <img width="45%" src="https://github.com/user-attachments/assets/87e8e526-d43f-4f46-8088-7491818d277e" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="45%" src="https://github.com/user-attachments/assets/9331d728-75bd-4d1b-97d3-334a988ce33a" />
-</p>
-<img width="576" height="808" alt="ezgif com-cut" src="https://github.com/user-attachments/assets/f23b2757-07dc-4807-bba0-2bd9d71632b7" />
-
-
----
-
-## 📦 Electromechanical PCB Tray-Feeding System
-
-A supporting electromechanical tray-feeding mechanism was developed to present PCB trays to the robotic arm and support automated material handling.
-
-The mechanism was designed around a vertical tray presentation system, enabling trays to be positioned at an accessible robotic pickup location and removed following processing.
-
-### Engineering Considerations
-
-- Vertical load handling.
-- Actuator and transmission selection.
-- Lead screw-driven linear motion.
-- Resistance to back-driving.
-- Tray alignment and positioning.
-- Mechanical stability.
-- Manufacturing and assembly constraints.
-- Integration with robotic pickup operations.
-
-<p align="center">
-  <img width="45%" src="https://github.com/user-attachments/assets/6f4b7fdc-f010-4261-8297-5cbcc678080b" />
-  &nbsp;&nbsp;&nbsp;
-  <img width="45%" src="https://github.com/user-attachments/assets/6e921961-0f1e-43ce-a921-50f5a2c06127" />
-</p>
-
-
-### CAD Design Files
-
-| File | Description |
-|---|---|
-| [ElevatorAssembly.f3z](ElevatorAssembly.f3z) | PCB tray elevator assembly |
-| [Legrand Set up model v1.f3d](Legrand%20Set%20up%20model%20v1.f3d) | Robotic cell layout and assembly model |
-| [MachineOpeningMech.f3d](MachineOpeningMech.f3d) | Testing machine opening mechanism |
-
----
-
-## 🔬 Testing & Validation
-
-Functional testing was performed on individual robotic operations and machine interfaces to support integration of the automated testing workflow.
-
-### Demonstration Videos
-
-- [Machine 1 Interface Test](Machine1InterfaceTest.mp4)
-- [Machine 5 Test](Machine5TestVideo.mp4)
-- [Machine 5 Additional Test](Machine5Test2.mp4)
 
 ### Functional Validation Areas
 
